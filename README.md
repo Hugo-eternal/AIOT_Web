@@ -3,3 +3,5 @@
 **AIOT Web impementation，實作數據資料前後端串接，並使用Ai Module，完成資料互動網頁架設.**
 
 有助於IOT數據呈現，即時掌握當前設備的狀態或異常.
+
+實作過程公開筆記 : https://reurl.cc/gQpy4N
